@@ -129,16 +129,6 @@ I work primarily with the React ecosystem and modern JS tooling to create **high
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ir-webgeek&theme=dark&hide_border=true&show_icons=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ir-webgeek&theme=dark&hide_border=true&layout=compact" />
-</p>
-
----
-
 ## 🏗 Engineering Philosophy
 
 > Performance is a feature.  
