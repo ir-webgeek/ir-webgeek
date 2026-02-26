@@ -9,102 +9,80 @@
 
 Full-stack engineer with a strong **frontend systems focus**, building scalable JavaScript applications with production-grade architecture.
 
-I work primarily with the React ecosystem and modern JS tooling to create **high-performance, SEO-optimized, maintainable applications** for startups and product teams.
+I specialize in React ecosystem engineering, performance optimization, and SEO-driven application design for startups and product teams.
 
 ---
 
 ## 🚀 JavaScript Ecosystem Expertise
 
-### ⚛️ React Architecture
-
-- Functional components & Hooks-first design
-- Custom hook abstraction patterns
-- Context API & advanced state orchestration
-- Code-splitting & lazy loading
-- Error boundaries & resilient UI design
-- Reusable design system components
-- Performance optimization (memoization, virtualization, render profiling)
+### ⚛️ React Engineering
+- Functional architecture & Hooks-first design  
+- Custom hooks & reusable abstractions  
+- Component-driven scalable systems  
+- Render optimization & memoization strategies  
+- Code splitting & lazy loading  
+- Error boundaries & resilient UI  
 
 ---
 
-### ▲ Next.js (SSR / SSG / App Router)
-
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
-- Incremental Static Regeneration (ISR)
-- SEO-focused metadata architecture
-- Route-based code splitting
-- API routes & backend integration
-- Optimized image & font handling
-- Core Web Vitals tuning
+### ▲ Next.js Architecture
+- SSR / SSG / ISR implementation  
+- SEO-focused metadata structure  
+- App Router & route-level optimization  
+- API routes integration  
+- Performance tuning for Core Web Vitals  
+- Optimized asset & image handling  
 
 ---
 
-### 🟦 TypeScript
-
-- Strong typing for scalable applications
-- Interface-driven architecture
-- Generic utilities & reusable types
-- Type-safe API contracts
-- Safer refactoring & maintainable codebases
+### 🟦 TypeScript Systems
+- Strongly-typed scalable codebases  
+- Interface & generic-based architecture  
+- Type-safe API contracts  
+- Safe refactoring workflows  
 
 ---
 
 ### 🔄 State Management
-
-- Redux (modern patterns)
-  - Redux Toolkit
-  - Normalized state structures
-  - Async flows (Thunk patterns)
-- Predictable state architecture
-- Clean separation between UI & business logic
+- Redux (modern patterns / Redux Toolkit mindset)  
+- Predictable state modeling  
+- Clean UI–logic separation  
+- Async flow handling  
 
 ---
 
 ### 🌐 Backend (Node.js)
-
-- RESTful API design principles
-- MVC structuring
-- Middleware architecture
-- Authentication flows (JWT-based systems)
-- Database abstraction patterns
-- Error handling & validation layers
+- RESTful API design  
+- Middleware architecture  
+- MVC project structuring  
+- Authentication flows (JWT)  
+- Error & validation layers  
 
 ---
 
 ### 🗄 Database Layer
-
-- MongoDB
-  - Schema modeling
-  - Indexing strategies
-  - Aggregation pipelines
-- MySQL
-  - Relational data modeling
-  - Query optimization
-  - Structured migrations mindset
+- MongoDB schema design & indexing  
+- Aggregation pipelines  
+- MySQL relational modeling & query optimization  
 
 ---
 
 ### 🧩 WordPress Engineering
-
-- Custom theme development & forking
-- Plugin customization
-- Performance optimization
-- Technical SEO improvements
-- Headless integration with React / Next.js
-- Legacy refactoring
+- Custom theme development & forking  
+- Plugin customization  
+- Performance & SEO optimization  
+- Headless integration with React / Next.js  
+- Legacy refactoring  
 
 ---
 
-## 📈 Performance & SEO Engineering
+## 📈 Performance & SEO Focus
 
-- Lighthouse optimization
-- Core Web Vitals improvement
-- SSR-based SEO architecture
-- Structured data implementation
-- Performance budgeting
-- Asset optimization strategies
-- Lazy loading & hydration tuning
+- Lighthouse score optimization  
+- Core Web Vitals improvement  
+- SSR-driven SEO strategy  
+- Structured data implementation  
+- Performance budgeting mindset  
 
 ---
 
@@ -112,15 +90,15 @@ I work primarily with the React ecosystem and modern JS tooling to create **high
 
 - Remote Frontend / Full-Stack Roles  
 - Startup & Product Engineering Teams  
-- Long-term Full-Time Opportunities (Iran / Remote International)
+- Long-term Full-Time Opportunities  
 
 ---
 
-## 🌐 Connect
+## 📬 Contact
 
 <p>
-  <a href="https://mastodon.social/@sina%20ashrafi">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
+  <a href="https://t.me/ssiinnaa">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:sina.ashrafi2016@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
