@@ -1,24 +1,103 @@
-# 👋 Hi, I'm Sina
-<br>Full-stack developer with a strong front-end focus, building fast, scalable, and SEO-optimized web applications using modern JavaScript technologies.<br><br>I care about performance, clean architecture, and user experience — not just shipping features.<br><br>🚀 Tech Stack Frontend<br><br>React<br>Next.js<br>TypeScript<br>Redux<br>Modern CSS / Responsive Design<br>Backend<br>Node.js (REST APIs)<br>MongoDB<br>MySQL<br>CMS & Web Platforms<br>WordPress (custom themes & plugin customization)<br>Theme forking & performance optimization<br>Other Focus Areas<br>SEO optimization (technical + performance)<br>Core Web Vitals improvements<br>API integration<br>Clean, maintainable component architecture<br>💼 What I’m Looking For<br>Remote front-end or full-stack roles<br>Full-time opportunities (Iran-based or remote international teams)<br>Startup environments where performance and product quality matter<br>🧠 Development Philosophy<br>Performance is a feature.<br>Simplicity scales.<br>Good UX is invisible.<br>Clean code saves future time.
-
-
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sina ashrafi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sina.ashrafi2016@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ir-webgeek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ir-webgeek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ir-webgeek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ir-webgeek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<!-- Animated Hero Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sina;Front-End+Focused+Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Performance+%26+SEO+Driven+Engineer" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ir-webgeek&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+Full-stack developer with a **strong front-end specialization** building  
+high-performance, scalable, SEO-optimized web applications.
+
+I help startups and product teams ship **fast, maintainable, production-ready systems** — not just features.
+
+- ⚡ Performance-first mindset  
+- 🧠 Clean architecture advocate  
+- 📈 Core Web Vitals & technical SEO focused  
+- 🔁 Experience refactoring legacy systems  
+- 🛠 WordPress theme & plugin customization expert  
+
+---
+
+## 🧠 Core Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### CMS & Performance
+<p>
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+Theme Forking • Plugin Customization • API Integrations • Technical SEO • Core Web Vitals Optimization
+
+---
+
+## 📈 Engineering Focus
+
+- Component-driven scalable architecture  
+- Clean state management (Redux patterns)  
+- REST API design & integration  
+- SEO-friendly SSR (Next.js)  
+- Performance budgeting & Lighthouse optimization  
+- Maintainable folder & project structure  
+
+---
+
+## 💼 Currently Open To
+
+- Remote Front-End / Full-Stack Roles  
+- Startup & Product-Based Teams  
+- Long-term Full-Time Opportunities (Iran / Remote International)
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://mastodon.social/@sina%20ashrafi">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
+  <a href="mailto:sina.ashrafi2016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ir-webgeek&theme=dark&hide_border=true&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ir-webgeek&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🏗 Engineering Philosophy
+
+> Performance is a feature.  
+> Simplicity scales.  
+> UX should feel invisible.  
+> Clean code compounds over time.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ir-webgeek&label=Profile+Views&color=00C2FF&style=flat" />
+</p>
