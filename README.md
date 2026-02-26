@@ -1,72 +1,122 @@
 <!-- Animated Hero Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sina;Front-End+Focused+Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Performance+%26+SEO+Driven+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sina;Front-End+Focused+Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript+Specialist;Performance+%26+SEO+Driven+Architecture" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👋 Sina Ashrafi
 
-Full-stack developer with a **strong front-end specialization** building  
-high-performance, scalable, SEO-optimized web applications.
+Full-stack engineer with a strong **frontend systems focus**, building scalable JavaScript applications with production-grade architecture.
 
-I help startups and product teams ship **fast, maintainable, production-ready systems** — not just features.
-
-- ⚡ Performance-first mindset  
-- 🧠 Clean architecture advocate  
-- 📈 Core Web Vitals & technical SEO focused  
-- 🔁 Experience refactoring legacy systems  
-- 🛠 WordPress theme & plugin customization expert  
+I work primarily with the React ecosystem and modern JS tooling to create **high-performance, SEO-optimized, maintainable applications** for startups and product teams.
 
 ---
 
-## 🧠 Core Stack
+## 🚀 JavaScript Ecosystem Expertise
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+### ⚛️ React Architecture
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### CMS & Performance
-<p>
-  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
-Theme Forking • Plugin Customization • API Integrations • Technical SEO • Core Web Vitals Optimization
+- Functional components & Hooks-first design
+- Custom hook abstraction patterns
+- Context API & advanced state orchestration
+- Code-splitting & lazy loading
+- Error boundaries & resilient UI design
+- Reusable design system components
+- Performance optimization (memoization, virtualization, render profiling)
 
 ---
 
-## 📈 Engineering Focus
+### ▲ Next.js (SSR / SSG / App Router)
 
-- Component-driven scalable architecture  
-- Clean state management (Redux patterns)  
-- REST API design & integration  
-- SEO-friendly SSR (Next.js)  
-- Performance budgeting & Lighthouse optimization  
-- Maintainable folder & project structure  
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Incremental Static Regeneration (ISR)
+- SEO-focused metadata architecture
+- Route-based code splitting
+- API routes & backend integration
+- Optimized image & font handling
+- Core Web Vitals tuning
 
 ---
 
-## 💼 Currently Open To
+### 🟦 TypeScript
 
-- Remote Front-End / Full-Stack Roles  
-- Startup & Product-Based Teams  
+- Strong typing for scalable applications
+- Interface-driven architecture
+- Generic utilities & reusable types
+- Type-safe API contracts
+- Safer refactoring & maintainable codebases
+
+---
+
+### 🔄 State Management
+
+- Redux (modern patterns)
+  - Redux Toolkit
+  - Normalized state structures
+  - Async flows (Thunk patterns)
+- Predictable state architecture
+- Clean separation between UI & business logic
+
+---
+
+### 🌐 Backend (Node.js)
+
+- RESTful API design principles
+- MVC structuring
+- Middleware architecture
+- Authentication flows (JWT-based systems)
+- Database abstraction patterns
+- Error handling & validation layers
+
+---
+
+### 🗄 Database Layer
+
+- MongoDB
+  - Schema modeling
+  - Indexing strategies
+  - Aggregation pipelines
+- MySQL
+  - Relational data modeling
+  - Query optimization
+  - Structured migrations mindset
+
+---
+
+### 🧩 WordPress Engineering
+
+- Custom theme development & forking
+- Plugin customization
+- Performance optimization
+- Technical SEO improvements
+- Headless integration with React / Next.js
+- Legacy refactoring
+
+---
+
+## 📈 Performance & SEO Engineering
+
+- Lighthouse optimization
+- Core Web Vitals improvement
+- SSR-based SEO architecture
+- Structured data implementation
+- Performance budgeting
+- Asset optimization strategies
+- Lazy loading & hydration tuning
+
+---
+
+## 💼 Open To
+
+- Remote Frontend / Full-Stack Roles  
+- Startup & Product Engineering Teams  
 - Long-term Full-Time Opportunities (Iran / Remote International)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p>
   <a href="https://mastodon.social/@sina%20ashrafi">
