@@ -40,7 +40,7 @@ I build scalable JavaScript products with a strong frontend systems focus, combi
 
 ## Engineering Philosophy
 
-> Performance is a feature.
-> Simplicity scales.
-> UX should feel invisible.
+> Performance is a feature.  
+> Simplicity scales.  
+> UX should feel invisible.  
 > Clean code compounds over time.
